@@ -13,7 +13,7 @@
     "connected-react-router": "^6.4.0",
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.4",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "history": "^4.9.0",
     "html-to-draftjs": "^1.4.0",
     "mini-css-extract-plugin": "^0.6.0",
